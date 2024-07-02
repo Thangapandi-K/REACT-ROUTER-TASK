@@ -1,0 +1,7 @@
+* {
+    background-color: rgb(163, 251, 205);
+}
+
+.card-body, .card-title {
+    background-color: rgb(53, 244, 180);
+}
